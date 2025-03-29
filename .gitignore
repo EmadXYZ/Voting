@@ -1,0 +1,5 @@
+node_modules/
+artifacts/
+build-info/
+.DS_Store
+.prettierrc.json
