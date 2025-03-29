@@ -3,3 +3,4 @@ artifacts/
 build-info/
 .DS_Store
 .prettierrc.json
+.states/vm-cancun/
