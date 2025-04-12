@@ -2,9 +2,6 @@
 
 A **decentralized**, **secure**, and **trustless** voting contract built on **zkSync Sepolia Testnet**. This smart contract allows fair elections by enabling **delegated voting**, **transparent results**, and **secure proposal management**.  
 
-🔗 **Live Contract on zkSync**:  
-[✅ View on zkSync Explorer](#link-to-contract) *(Coming Soon!)*  
-
 ---
 
 ## 📜 Overview  
